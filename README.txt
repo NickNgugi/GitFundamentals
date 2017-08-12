@@ -2,6 +2,7 @@
 Hello, again
 Sharing is fun and easy
 "Fixed bug #1234" 
+"Another fix to Bug#1234" 
 More sharing...
 "Feature1" 
 "Added Fueature 2" 
