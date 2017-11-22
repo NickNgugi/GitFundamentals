@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Adding line 1
-=======
-Adding yeat more code
->>>>>>> 0d693a901e632ee5555d58baa69c642138513328
